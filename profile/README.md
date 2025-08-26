@@ -4,7 +4,7 @@ Want to claim your Pumpfun ($PUMP) tokens in 2025? This guide walks you through 
 
 <div style="text-align: center">
   <a href="https://how-to-get-pump-fun-airdrop.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Pumpfun_Airdrop_Guide-blueviolet">
+    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_visit-Pumpfun_Airdrop_Guide-blueviolet">
   </a>
 </div>
 
